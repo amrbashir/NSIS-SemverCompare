@@ -1,5 +1,9 @@
 # Changelog
 
+## \[0.4.2]
+
+- [`14d311b`](https://www.github.com/tauri-apps/nsis-tauri-utils/commit/14d311b13f598508cfa48fae66db3cfb5a30d3bf) ([#40](https://www.github.com/tauri-apps/nsis-tauri-utils/pull/40) by [@Legend-Master](https://www.github.com/tauri-apps/nsis-tauri-utils/../../Legend-Master)) Fix `RunAsUser` can't launch programs that require admin right
+
 ## \[0.4.1]
 
 - [`3cb9d91`](https://www.github.com/tauri-apps/nsis-tauri-utils/commit/3cb9d9126a3e269ddfcf96617de08a73402182f2) ([#35](https://www.github.com/tauri-apps/nsis-tauri-utils/pull/35) by [@Legend-Master](https://www.github.com/tauri-apps/nsis-tauri-utils/../../Legend-Master)) Fix can't launch the app sometimes if the program path contains spaces
